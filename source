@@ -272,11 +272,11 @@ CMDsF.BorderSizePixel = 0
 CMDsF.Position = UDim2.new(0, 5, 0, 45)
 CMDsF.Size = UDim2.new(0, 245, 0, 175)
 CMDsF.ScrollBarImageColor3 = Color3.fromRGB(78,78,79)
-CMDsF.BottomImage = "rbxasset://textures/ui/Scroll/scroll-middle.png"
+CMDsF.BottomImage = "https://cdn.glitch.global/eba3ed50-5eaa-4784-ac4e-9486b5d45f1f/klaxxon%20servers.png?v=1690452245534"
 CMDsF.CanvasSize = UDim2.new(0, 0, 0, 0)
-CMDsF.MidImage = "rbxasset://textures/ui/Scroll/scroll-middle.png"
+CMDsF.MidImage = "https://cdn.glitch.global/eba3ed50-5eaa-4784-ac4e-9486b5d45f1f/klaxxon%20servers.png?v=1690452245534"
 CMDsF.ScrollBarThickness = 8
-CMDsF.TopImage = "rbxasset://textures/ui/Scroll/scroll-middle.png"
+CMDsF.TopImage = "https://cdn.glitch.global/eba3ed50-5eaa-4784-ac4e-9486b5d45f1f/klaxxon%20servers.png?v=1690452245534"
 CMDsF.VerticalScrollBarInset = 'Always'
 CMDsF.ZIndex = 10
 table.insert(scroll,CMDsF)
